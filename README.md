@@ -7,5 +7,5 @@ You can check the deployed application clicking on: https://leticianardi.github.
 
 
 ## Screenshots
-<img src="images/Screenshot 1.png">
-<img src="images/Screenshot 2.png">
+<img src="assets/images/Screenshot 1.png">
+<img src="assets/images/Screenshot 2.png">
